@@ -1,0 +1,1 @@
+console.log('its my first node app! oh and i guess hello world!')
