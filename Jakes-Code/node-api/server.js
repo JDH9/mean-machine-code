@@ -30,7 +30,7 @@
 
 // connect to our database (hosted on modulus.io)
   // ex: mongoose.connect('mongodb:node:noder@novus.modulusmongo.net:27017/Iganiq8o');
-  mongoose.connect('mongodb://noder:Angular9@proximus.modulusmongo.net:27017/jI9hivyj')
+  mongoose.connect('mongodb://noder:password@proximus.modulusmongo.net:27017/jI9hivyj')
 
 // ROUTES FOR OUR API
 // ======================================
